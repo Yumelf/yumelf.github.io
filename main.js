@@ -161,7 +161,6 @@ window.boot = function () {
         jsList: jsList,
         groupList: settings.groupList,
         collisionMatrix: settings.collisionMatrix,
-        renderMode: 0
     }
 
     cc.game.run(option, onStart);
