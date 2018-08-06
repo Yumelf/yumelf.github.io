@@ -7,6 +7,6 @@ Online version of NAMCO's famous game 太鼓の達人(Taiko No Tatsujin) ——�
 
 play online https://yumelf.github.io
 
-android version https://yumelf.github.io/DaikoNoTatsujin.apk
+android version https://github.com/Yumelf/yumelf.github.io/releases/download/preview.1/DaikoNoTatsujin.apk
 
 2018.08.07 upload preview.1
